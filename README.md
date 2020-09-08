@@ -2,9 +2,9 @@
 
 Connecting to the World
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+In my learning of Flutter, this project is an application that fetches data from  an API and displays the result in a list view.
 
 A few resources to get you started if this is your first Flutter project:
 
