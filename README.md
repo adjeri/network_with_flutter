@@ -1,6 +1,6 @@
 # networking_with_flutter
 
-Connecting to the World
+Connecting to the World. This app fetches data from https://jsonplaceholder.typicode.com/posts and displays them in a ListView.
 
 ## Getting Started
 
